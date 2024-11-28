@@ -1,0 +1,15 @@
+#header, .module caption {
+    background: #525043;
+}
+
+div.breadcrumbs {
+    background: #6A6E5D;
+}
+
+#content h1 {
+   background: #424133;
+}
+
+#content-main th, td {
+    background: #424242;
+}
